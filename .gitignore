@@ -6,6 +6,7 @@ obj/
 *.suo
 *.user
 *.cache
+.vs/
 
 # Ignore NuGet packages
 *.nuget.dgspec.json
