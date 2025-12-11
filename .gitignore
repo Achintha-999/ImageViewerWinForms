@@ -1,0 +1,13 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore Visual Studio files
+*.suo
+*.user
+*.cache
+
+# Ignore NuGet packages
+*.nuget.dgspec.json
+*.nuget.g.props
+*.nuget.g.targets
