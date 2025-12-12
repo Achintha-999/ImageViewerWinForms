@@ -116,7 +116,6 @@ This project currently does not include a licensed file. Contributions are only 
 ## 👤 Author
 
 👨‍💻 **Achintha-999**   
-![Profile Icon](https://avatars.githubusercontent.com/u/177302299?v=4)  
 Check my other work on GitHub: [Achintha-999](https://github.com/Achintha-999)
 
 --- 
